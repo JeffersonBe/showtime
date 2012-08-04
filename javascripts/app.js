@@ -13,8 +13,8 @@ $(document).ready(function() {
      captions: true, 			 // do you want captions?
      captionAnimation: 'fade', 		 // fade, slideOpen, none
      captionAnimationSpeed: 800, 	 // if so how quickly should they animate in
-     bullets: false,			 // true or false to activate the bullet navigation
-     bulletThumbs: false,		 // thumbnails for the bullets
+     bullets: true,			 // true or false to activate the bullet navigation
+     bulletThumbs: true,		 // thumbnails for the bullets
      bulletThumbLocation: '',		 // location from this file where thumbs will be
      afterSlideChange: function(){}, 	 // empty function 
      fluid: true                         // or set a aspect ratio for content slides (ex: '4x3') 
@@ -46,4 +46,5 @@ $('#bonusImage').orbit({
     $(document).foundationButtons();
     $(document).foundationNavigation();
     $(document).foundationCustomForms();
+    $(document).foundationTabs({callback:$.foundation.customForms.appendCustomMarkup});
 });

@@ -10,7 +10,7 @@ body {margin:0;
 	-webkit-background-size: cover; /* pour Chrome et Safari */
 	-moz-background-size: cover; /* pour Firefox */
 	-o-background-size: cover; /* pour Opera */
-	background-size: cover; /* version standardisée */} font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1; color: #222222; position: relative; -webkit-font-smoothing: antialiased; }
+	background-size: cover; /* version standardisée */q font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1; color: #222222; position: relative; -webkit-font-smoothing: antialiased; }
 
 /* Links ---------------------- */
 a { color: #fe57a1; text-decoration: none; line-height: inherit; }
@@ -943,18 +943,19 @@ barre-HEADER
 */
 
 #barre-header {
-	background-image: linear-gradient(bottom, rgb(79,79,79) 99%, rgb(0,0,0) 0%);
-	background-image: -o-linear-gradient(bottom, rgb(79,79,79) 99%, rgb(0,0,0) 0%);
-	background-image: -moz-linear-gradient(bottom, rgb(79,79,79) 99%, rgb(0,0,0) 0%);
-	background-image: -webkit-linear-gradient(bottom, rgb(79,79,79) 99%, rgb(0,0,0) 0%);
-	background-image: -ms-linear-gradient(bottom, rgb(79,79,79) 99%, rgb(0,0,0) 0%);
-	background-image: -webkit-gradient(
-		linear,
-		left bottom,
-		left top,
-		color-stop(0.99, rgb(79,79,79)),
-		color-stop(0, rgb(0,0,0))
-	);
+background-image: linear-gradient(bottom, rgb(0,0,0) 1%, rgb(61,61,61) 100%);
+background-image: -o-linear-gradient(bottom, rgb(0,0,0) 1%, rgb(61,61,61) 100%);
+background-image: -moz-linear-gradient(bottom, rgb(0,0,0) 1%, rgb(61,61,61) 100%);
+background-image: -webkit-linear-gradient(bottom, rgb(0,0,0) 1%, rgb(61,61,61) 100%);
+background-image: -ms-linear-gradient(bottom, rgb(0,0,0) 1%, rgb(61,61,61) 100%);
+
+background-image: -webkit-gradient(
+	linear,
+	left bottom,
+	left top,
+	color-stop(0.01, rgb(0,0,0)),
+	color-stop(1, rgb(61,61,61))
+);
 	font-family: 'Lobster', cursive;
 	height:30px;
 }
@@ -963,14 +964,20 @@ barre-HEADER
 	width: 150px;
 	height:30px;
 	float: right;
-	color: #f4f4f4;
+	color: #ffffff;
 	text-align: center;
 	margin: 0;
 	font-size: 1.2em;
 }
 
+#contact a{
+	color: #ffffff;
+	text-decoration: none;
+	line-height: 3;
+}
 #contact :hover{
 	background-color: #6d6d6d;
+	height: 30px;
 }
 
 #header {
