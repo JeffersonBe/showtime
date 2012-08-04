@@ -30,6 +30,7 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<div class="ten columns centered">
 					<?php include'includes/bonus-photos.php'?>
 		</div>
+	</div><!-- fin de #main -->
 	</div> <!--! end of #container -->
 <?php include'includes/footer.php'?>
 <?php include'includes/scripts.php' ?>
