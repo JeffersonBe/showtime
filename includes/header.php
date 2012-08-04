@@ -1,10 +1,11 @@
 <meta name="author" content="Jefferson Bonnaire">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
-<link rel="stylesheet" href="css/style.css">
 
-<link rel="stylesheet" media="only screen and (max-device-width: 480px)" rel="stylesheet" href="css/style.css" />
-<link rel="stylesheet" media="only screen and (max-device-width: 768px)" rel="stylesheet" href="css/style.css" />
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="stylesheets/foundation.css">
+
+<script src="javascripts/modernizr.foundation.js"></script>
 
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
@@ -13,8 +14,6 @@
 <link href='http://fonts.googleapis.com/css?family=Actor' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="themes/default/default.css" type="text/css" media="screen" />
-
-<script src="js/libs/modernizr-2.0.6.min.js"></script>
 
 <!--SCRIPTS-MENU-->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>

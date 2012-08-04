@@ -1,4 +1,4 @@
-<div id="actualite">
+<div id="actualite" class="twelve columns">
 	<article>
 		<h1>Actualité</h1>
 			<section>
