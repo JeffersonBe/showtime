@@ -25,15 +25,8 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 	<?php include'includes/header.php'?>
 </head>
 <body>
-<div id="barre-header"><?php include'includes/barre-header.php';?></div>
-<div id="container">
-	<div id="header">
-		<a href="index.php"><div id="head-left"></div></a>
-<!--menu-->
-<?php include'includes/menu.php'?>
-<!--fin-menu-->
-	</div><!-- #end de header -->
-	<?php include'includes/navigation.php'?>
+		<?php include'includes/head.php';?>
+
 	<div id="main" role="main">
 		<div id="container-body"><?php include'includes/actualites.php'?></div>
 	</div><!-- #end of main -->
