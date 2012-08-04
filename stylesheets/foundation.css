@@ -1560,35 +1560,6 @@ Petit déjeuner
 
 /* Pougne */
 
-#container-pougne {
-	width:799px;
-	height: 850px;
-	margin: 40px auto;
-	background-color:#333;
-	color:white;
-	padding:5px;
-	border:solid 10px;
-	border-color:#f52985;
-	z-index: 1000;
-}
-
-#pougne {
-	height: 500px;
-	width: 700px;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	padding-bottom: 50px;
-	z-index: 10001;
-}
-
-#manager {
-	float: left;
-	width: 350px;
-	height:200px;
-	display: inline-block
-}
-
 .title {
 	width: 100%;
 	text-align: center;
@@ -2132,15 +2103,6 @@ footer {
 	color:#CCC;
 	z-index: 0;
 	background: url(../images/ios-linen.jpg) repeat;
-}
-
-#partenaire h1 {
-	float: left;
-	width: 100%;
-	color: #f7f7f7;
-	margin: 15px 0px;
-	padding: 0 0 0 15px;
-	font-family: "Lobster Two", cursive;
 }
 
 div.box img {

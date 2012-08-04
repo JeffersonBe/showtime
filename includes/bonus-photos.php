@@ -1,5 +1,5 @@
-<div id="container-image">
-	<div id="bonus-image">
+<div>
+	<div id="bonusImage">
 		<img height="150px" src="../images/Pepsi/1.jpg" alt="image1">
 		<img height="150px" src="../images/Pepsi/2.jpg" alt="image2">
 		<img height="150px" src="../images/Pepsi/3.jpg" alt="image3">
