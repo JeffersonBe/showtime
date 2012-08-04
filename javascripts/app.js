@@ -22,7 +22,7 @@
 });
 
 $('#bonusImage').orbit({
-     animation: 'fade',                  // fade, horizontal-slide, vertical-slide, horizontal-push
+     animation: 'horizontal-slide',                  // fade, horizontal-slide, vertical-slide, horizontal-push
      animationSpeed: 800,                // how fast animtions are
      timer: true, 			 // true or false to have the timer
      resetTimerOnClick: false,           // true resets the timer instead of pausing slideshow progress
@@ -34,8 +34,8 @@ $('#bonusImage').orbit({
      captions: true, 			 // do you want captions?
      captionAnimation: 'fade', 		 // fade, slideOpen, none
      captionAnimationSpeed: 800, 	 // if so how quickly should they animate in
-     bullets: false,			 // true or false to activate the bullet navigation
-     bulletThumbs: false,		 // thumbnails for the bullets
+     bullets: true,			 // true or false to activate the bullet navigation
+     bulletThumbs: true,		 // thumbnails for the bullets
      bulletThumbLocation: '',		 // location from this file where thumbs will be
      afterSlideChange: function(){}, 	 // empty function 
      fluid: true                         // or set a aspect ratio for content slides (ex: '4x3') 
