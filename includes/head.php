@@ -17,13 +17,13 @@
 	</div>
 	<div class="ten offset-by-one columns">
 		<ul class="nav-bar">
-		  <li class="active"><a href="actualite.php">ACTUALITES</a></li>
-		  <li><a href="showtime.php">SHOWTIME</a></li>
-		  <li><a href="partenaires.php">PARTENAIRES</a></li>
-		  <li><a href="associations.php">ASSOCIATIONS</a></li>
-		  <li><a href="pougnes.php">POUGNES</a></li>
+		  <li class="active"><a href="actualite.php">Actualit&eacute;s</a></li>
+		  <li><a href="showtime.php">Showtime</a></li>
+		  <li><a href="partenaires.php">Partenaires</a></li>
+		  <li><a href="associations.php">Associations</a></li>
+		  <li><a href="pougnes.php">Pougnes</a></li>
 		  <li class="has-flyout">
-		    <a href="#">BONUS</a>
+		    <a href="#">Bonus</a>
 		    <a href="#" class="flyout-toggle"><span></span></a>
 		    <ul class="flyout">
 		      <li><a href="bonus-videos.php">Vid&eacute;os</a></li>
