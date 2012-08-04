@@ -28,9 +28,9 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<?php include'includes/head.php';?>
 			<div id="main" role="main">
 				<div id="accueil"><?php include'includes/accueil.php'?></div>
-			</div><!-- #end of main -->				
-			<?php include'includes/footer.php'?>
+			</div><!-- #end of main -->
 		</div> <!--! end of #container -->
+			<?php include'includes/footer.php'?>
 	<?php include'includes/scripts.php' ?>
 	</body>
 </html>
