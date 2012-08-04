@@ -1,4 +1,3 @@
-
 <div id="actualite" width="829" height="451">
 	<article>
 		<h1>Bientôt ! </h1>

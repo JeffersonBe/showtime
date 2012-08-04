@@ -1,9 +1,7 @@
 <div id="partenaire">
-	
 		<h1>Nos partenaires</h1>
 		
-		<div id="logo-sponsors">
-	
+		<div id="logo-sponsors">	
 			<div class="box">
 				<a class="cover" href="http://www.societegenerale.fr/">
 					<img src="../images/partenaire/societe_generale.jpg" alt="Logo de la Société Générale" />
