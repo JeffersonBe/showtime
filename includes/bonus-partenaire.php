@@ -1,0 +1,1 @@
+<div class="wait"><p>Retrouvez bientôt nos partenaires …</p></div>
