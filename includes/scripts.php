@@ -1,13 +1,8 @@
-<script type="text/javascript" src="js/zen/jquery.rotate.js"></script>
-<script type="text/javascript" src="js/zen/jquery.grab.js"></script> 
-<script type="text/javascript" src="js/zen/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="js/zen/zen.js"></script>
-
 <!-- Included JS Files (Compressed) -->
-  <script src="javascripts/foundation.min.js"></script>
-  
-  <!-- Initialize JS Plugins -->
-  <script src="javascripts/app.js"></script>
+<script src="javascripts/foundation.min.js"></script>
+
+<!-- Initialize JS Plugins -->
+<script src="javascripts/app.js"></script>
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {

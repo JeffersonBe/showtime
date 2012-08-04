@@ -17,7 +17,7 @@
 	</div>
 	<div class="ten offset-by-one columns">
 		<ul class="nav-bar">
-		  <li class="active"><a href="actualites.php">ACTUALITES</a></li>
+		  <li class="active"><a href="actualite.php">ACTUALITES</a></li>
 		  <li><a href="showtime.php">SHOWTIME</a></li>
 		  <li><a href="partenaire.php">PARTENAIRES</a></li>
 		  <li><a href="associations.php">ASSOCIATIONS</a></li>
