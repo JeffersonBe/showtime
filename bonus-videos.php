@@ -28,7 +28,10 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 <?php include'includes/head.php';?>
 	<div id="main" role="main" class="row">
 		<div class="ten columns centered">
-		<?php include'includes/bonus-videos.php'?>
+			<div class="flex-video widescreen vimeo">
+					<iframe src="http://player.vimeo.com/video/35366204?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" width="798" height="449" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+					<p><a href="http://vimeo.com/35366204">Liste Bde ShowTime Animation des listes 13/12/2011</a> from <a href="http://vimeo.com/user10021221">listebdeshowtime2012</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+					</div>
 		</div><!-- #end of main -->
 	</div><!-- fin de #main -->
 </div> <!--! end of #container -->

@@ -521,7 +521,7 @@ div.button-bar ul.button-group { float: left; margin-right: 8px; }
 div.button-bar ul.button-group:last-child { margin-left: 0; }
 
 /* Requires globals.css */
-.nav-bar { height: 40px; margin-top: 20px; padding: 0;}
+.nav-bar { height: 40px; margin-top: 20px; padding: 0; width: 680px;}
 .nav-bar > li { font-family: 'Lobster', cursive; float: left; display: block; position: relative; padding: 0; margin: 0; border: 1px solid #333333; border-right: none; line-height: 38px; -webkit-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset; -moz-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset; box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset; background: #4d4d4d;}
 .nav-bar > li:first-child { -webkit-box-shadow: 0 0 0; -moz-box-shadow: 0 0 0; box-shadow: 0 0 0; }
 .nav-bar > li:last-child { border-right: solid 1px #333333; -webkit-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset, 1px 0 0 rgba(255, 255, 255, 0.2); -moz-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset, 1px 0 0 rgba(255, 255, 255, 0.2); box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2) inset, 1px 0 0 rgba(255, 255, 255, 0.2); }
@@ -566,7 +566,7 @@ ul.flyout li.active a, .nav-bar li ul li.active a { background: #4d4d4d; border:
 @media only screen and (max-width: 1279px) and (min-width: 768px) { .touch .nav-bar li a { font-size: 13px; font-size: 1.3rem; }
   .touch .nav-bar li.has-flyout > a.flyout-toggle { padding: 20px !important; }
   .touch .nav-bar li.has-flyout > a { padding-right: 36px !important; } }
-@media only screen and (max-width: 767px) { .nav-bar { height: auto; }
+@media only screen and (max-width: 767px) { .nav-bar { height: auto; width: auto; }
   .nav-bar > li { float: none; display: block; border-right: none; }
   .nav-bar > li > a.main { text-align: left; border-top: 1px solid #ddd; border-right: none; }
   .nav-bar > li:first-child > a.main { border-top: none; }
@@ -980,14 +980,16 @@ background-image: -webkit-gradient(
 	height: 30px;
 }
 
-#header {
-	padding-top:20px;
-	height:104px;
+#logo {
+	width: 100px;
+	margin: 10px 0 10px 0 ;
 }
 
-#head-left {
-	background: url(../images/logo.png) no-repeat center center;
-	width: 180px;
+@media only screen and (max-width: 767px){
+	#logo {
+		width: 100px;
+		margin: 10px 35% 0;
+	}
 }
 
 /* ========================================== Main ========================================== */

@@ -28,7 +28,10 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<?php include'includes/head.php';?>
 			<div id="main" role="main" class="row">
 				<div class="ten columns centered">
-					<?php include'includes/accueil.php'?>
+					<div class="flex-video widescreen vimeo">
+						<iframe width="829" height="451" src="http://player.vimeo.com/video/46753945" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+					</div>
+					<p class="text-center gros">Showtime votre BDE pour l'année 2012-2013 !</p>
 				</div>
 			</div><!-- #end of main -->
 		</div> <!--! end of #container -->

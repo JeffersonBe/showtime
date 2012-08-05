@@ -27,14 +27,19 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 <body>
 	<?php include'includes/head.php';?>
 	<div id="main" role="main" class="row">
-		<div id="container-body" class="ten columns centered">
-			<?php include'includes/actualite.php'?>
-		</div>
-		</div><!-- #end of main -->
-	</div> <!--! end of #container -->
-
-	<?php include'includes/footer.php'?>
-	
+		<div class="ten columns centered">
+			<article>
+				<h1>Bientôt ! </h1>
+					<section>
+						<h2>En construction</h2>
+							<p>Revenez plus tard !</p>
+							<p><span>;-)</span></p>
+					</section>
+			</article>
+		</div><!-- #end of ten -->
+	</div> <!--! end of #main -->
+</div><!-- end of #container -->
+<?php include'includes/footer.php'?>
 <?php include'includes/scripts.php' ?>
 </body>
 </html>

@@ -1,25 +1,29 @@
 <div id="barre-header">
 	<div class="row">
-		<div id="contact" class="one columns last">
-		<a href="mailto:contact@showtime2012.fr?subject=Contact site showtime2012">
-				<p>Contact</p>
-		</a>
+			<a href="#" data-reveal-id="myModal" data-animation="fadeAndPop" data-animationspeed="300" data-closeonbackgroundclick="true" data-dismissmodalclass="close-reveal-modal">Click for a modal</a>
+			<div id="contact" class="one columns last">
+				<a href="mailto:contact@showtime2012.fr?subject=Contact site showtime2012">
+						<p><span class="glyph general">h</span> Contact</p>
+				</a>
+			</div>
 		</div>
 	</div>
 </div>
 
 <div id="container" class="row">
+
+<div class="twelve columns">
+	<div class="columns">
 	<a href="index.php">
-		<div class="one columns">
-			<img src="images/logo.png" alt="logo" width="400"/>
-		</div>
+			<img id="logo" src="images/logo.png" alt="logo"/>
 	</a>
-	<div class="eleven columns">
+	</div>
+	<div class="columns end">
 		<ul class="nav-bar">
 		  <li class="active"><a href="actualite.php">Actualit&eacute;s</a></li>
 		  <li><a href="showtime.php">Showtime</a></li>
 		  <li><a href="partenaires.php">Partenaires</a></li>
-		  <li><a href="associations.php">Associations</a></li>
+		  <li><a href="http://associations.it-sudparis.eu/">Associations</a></li>
 		  <li><a href="pougnes.php">Pougnes</a></li>
 		  <li class="has-flyout">
 		    <a href="#">Bonus</a>
@@ -32,3 +36,6 @@
 		  </li>
 		</ul>
 	</div>
+</div>
+
+	
