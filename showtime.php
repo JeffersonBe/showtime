@@ -1,4 +1,3 @@
-	<?php include'Scripts/form.php';?>
 <!doctype html>
 <!-- 
                                                                                                         
