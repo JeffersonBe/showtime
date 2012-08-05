@@ -9,13 +9,12 @@
 </div>
 
 <div id="container" class="row">
-<div class="row">
-	<div class="one columns">
-		<a href="index.php">
+	<a href="index.php">
+		<div class="one columns">
 			<img src="images/logo.png" alt="logo" width="400"/>
-		</a>
-	</div>
-	<div class="ten offset-by-one columns">
+		</div>
+	</a>
+	<div class="eleven columns">
 		<ul class="nav-bar">
 		  <li class="active"><a href="actualite.php">Actualit&eacute;s</a></li>
 		  <li><a href="showtime.php">Showtime</a></li>
@@ -33,4 +32,3 @@
 		  </li>
 		</ul>
 	</div>
-</div>

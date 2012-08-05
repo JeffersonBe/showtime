@@ -1,18 +1,22 @@
 <div class="row">
 	<div class="six columns">	
-			<p class="text-center gros">Wallpaper Showtime</p>
+		<h1 class="text-center gros">Wallpaper Showtime</h1>
+		<div id="wallp-desktop">						
+			<h3 class="text-center">Version bureau</h3>
 				<a href="../images/wallpaper-desktop.jpg">
-					<div id="wallp-desktop">						
-						<p class="title-wall">Version bureau</p>
-						<img src="../images/desktop.png" alt="desktop" height="40px" width="40px"/>
-					</div>
-				</a>			
-				<a href="../images/wallpaper-mobile.jpg">
-					<div id="wallp-mobile">
-						<p class="title-wall">Version mobile</p>
-						<img src="../images/iphone.png" alt="mobile" height="40px" width="40px"/>			
-					</div>
+					<p class="text-center">
+						<span class="glyph general">p</span>
+					</p>
 				</a>
+		</div>
+		<div id="wallp-mobile">
+			<h3 class="text-center">Version mobile</h3>
+				<a href="../images/wallpaper-mobile.jpg">
+					<p class="text-center">
+						<span class="glyph general">.</span>
+					</p>	
+				</a>
+		</div>
 	</div>
 	<div class="six columns">	
 		<p class="text-center gros">Playlist Showtime</p>

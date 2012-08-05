@@ -15,4 +15,4 @@
 		<img src="images/showtime/wed.jpg" alt="Pôle Wed" title=" Pôle WED: Chloé, Hicham et Julien (respo)" />
 	</div>
 </div>
-<p class="text-center"><a class="button large round" href="../images/Organigramme-showtime.jpg">Organigramme Showtime</a></p>
+<p class="text-center"><a class="button large round" href="images/organigramme-showtime.jpg">Organigramme Showtime</a></p>
