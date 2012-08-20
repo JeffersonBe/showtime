@@ -960,23 +960,13 @@ background-image: -webkit-gradient(
 	height:30px;
 }
 
-#contact {
-	width: 150px;
-	height:30px;
-	float: right;
+#contact, #liensutiles {
 	color: #ffffff;
-	text-align: center;
-	margin: 0;
-	font-size: 1.2em;
+	line-height: 2;
 }
 
-#contact a{
-	color: #ffffff;
-	text-decoration: none;
-	line-height: 3;
-}
-#contact :hover{
-	background-color: #6d6d6d;
+#contact :hover, #liensutiles :hover{
+	color: #ff297f;
 	height: 30px;
 }
 
