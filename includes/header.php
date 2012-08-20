@@ -5,9 +5,9 @@
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72-precomposed.png">
 
 <link rel="stylesheet" href="stylesheets/foundation.css">
-<script src="javascripts/modernizr.foundation.js"></script>
-
 <link href='http://fonts.googleapis.com/css?family=Lobster+Two:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+<script src="javascripts/modernizr.foundation.js"></script>
+
 
 

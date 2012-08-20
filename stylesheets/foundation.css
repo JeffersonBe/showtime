@@ -929,9 +929,10 @@ ul.vcard li.fn { font-weight: bold; font-size: 15px; font-size: 1.5rem; }
 p.vevent span.summary { font-weight: bold; }
 p.vevent abbr { cursor: default; text-decoration: none; font-weight: bold; border: none; padding: 0 1px; }
 
+/* ============================== Default ============================ */
 
 #container {
-	background: url(http://subtlepatterns.com/patterns/light_wool.png);
+	background: url(../images/light_wool.png);
 }
 
 /* ------------------------------ header ------------------------------------ */
@@ -960,14 +961,9 @@ background-image: -webkit-gradient(
 	height:30px;
 }
 
-#contact, #liensutiles {
-	color: #ffffff;
+.LienHead {
 	line-height: 2;
-}
-
-#contact :hover, #liensutiles :hover{
-	color: #ff297f;
-	height: 30px;
+	font-family: sans-serif;
 }
 
 #logo {
