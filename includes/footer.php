@@ -1,9 +1,4 @@
 <footer class="row">
-		<hr>
-	<div class="three columns centered">
-			<div class="fb-like" data-href="http://showtime2012.com/" data-send="true" data-layout="button_count" data-width="450" data-show-faces="true" data-font="verdana"></div>
-		</div>
-	</div>
     <p class="text-center copyright"> COPYRIGHT & ShowTime BDE TELECOM Ecole de Management & TELECOM SudParis</p>	
 </footer>
 
