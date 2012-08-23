@@ -1,6 +1,6 @@
 <nav class="twelve columns">
 	<a href="index.php">
-			<p class="left mobile-four"><img id="logo" src="images/logo.png" alt="Logo Showtime"/>
+			<p class="left mobile-four"><img id="logo" src="images/logo.png" alt="Logo Showtime"/></p>
 	</a>
 	<div class="nine columns">
 		<ul class="nav-bar">
