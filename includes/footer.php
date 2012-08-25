@@ -1,5 +1,5 @@
 <footer class="row">
-    <p class="text-center copyright"> COPYRIGHT & ShowTime BDE TELECOM Ecole de Management & TELECOM SudParis</p>	
+    <p class="text-center copyright">COPYRIGHT & SHOWTIME BDE TELECOM Ecole de Management & TELECOM SudParis</p>
 </footer>
 
 <div id="myModal" class="reveal-modal">
