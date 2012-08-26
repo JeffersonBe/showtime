@@ -544,7 +544,7 @@ div.button-bar ul.button-group:last-child { margin-left: 0; }
 .nav-bar.vertical > li .flyout { left: 100%; top: -1px; }
 .nav-bar.vertical > li .flyout.right { left: auto; right: 100%; }
 
-.flyout { background: #f2f2f2; padding: 20px; margin: 0; border: 1px solid #d9d9d9; position: absolute; top: 39px; left: -1px; width: 250px; z-index: 40; -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); /* remove margin on any first-child element */ /* remove margin on last element */ }
+.flyout { background: #f2f2f2; padding: 20px; margin: 0; border: 1px solid #d9d9d9; position: absolute; top: 39px; left: -1px; width: 150px; z-index: 40; -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); box-shadow: 0 1px 5px rgba(0, 0, 0, 0.1); /* remove margin on any first-child element */ /* remove margin on last element */ }
 .flyout p { line-height: 1.2; font-size: 13px; }
 .flyout *:first-child { margin-top: 0; }
 .flyout *:last-child { margin-bottom: 0; }
@@ -982,6 +982,7 @@ height:30px;
 	color:white;
 	padding:5px;
 	border:solid 10px #f52985;
+	overflow: hidden;
 }
 
 #accueil {
