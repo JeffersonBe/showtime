@@ -1,14 +1,14 @@
 <!doctype html>
-<!-- 
-                                                                                                        
- ad88888ba   88                                                     88                                  
-d8"     "8b  88                                              ,d     ""                                  
-Y8,          88                                              88                                         
-`Y8aaaaa,    88,dPPYba,    ,adPPYba,   8b      db      d8  MM88MMM  88  88,dPYba,,adPYba,    ,adPPYba,  
-  `"""""8b,  88P'    "8a  a8"     "8a  `8b    d88b    d8'    88     88  88P'   "88"    "8a  a8P_____88  
-        `8b  88       88  8b       d8   `8b  d8'`8b  d8'     88     88  88      88      88  8PP"""""""  
-Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      88      88  "8b,   ,aa  
- "Y88888P"   88       88   `"YbbdP"'       YP      YP        "Y888  88  88      88      88   `"Ybbd8"'  
+<!--
+
+ ad88888ba   88                                                     88
+d8"     "8b  88                                              ,d     ""
+Y8,          88                                              88
+`Y8aaaaa,    88,dPPYba,    ,adPPYba,   8b      db      d8  MM88MMM  88  88,dPYba,,adPYba,    ,adPPYba,
+  `"""""8b,  88P'    "8a  a8"     "8a  `8b    d88b    d8'    88     88  88P'   "88"    "8a  a8P_____88
+        `8b  88       88  8b       d8   `8b  d8'`8b  d8'     88     88  88      88      88  8PP"""""""
+Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      88      88  "8b,   ,aa
+ "Y88888P"   88       88   `"YbbdP"'       YP      YP        "Y888  88  88      88      88   `"Ybbd8"'
 
  -->
 <!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="fr"> <![endif]-->
@@ -31,12 +31,10 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<div id="main" role="main" class="row">
 			<div class="ten columns centered">
 				<article>
-					<h1>Bientôt ! </h1>
-						<section>
-							<h2>En construction</h2>
-								<p>Revenez plus tard !</p>
-								<p><span>;-)</span></p>
-						</section>
+					<h1>Bientôt !</h1>
+						<h2>En construction</h2>
+							<p>Revenez plus tard !</p>
+							<p><span>;-)</span></p>
 				</article>
 			</div><!-- #end of ten -->
 		</div> <!--! end of #main -->

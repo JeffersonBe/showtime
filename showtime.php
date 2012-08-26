@@ -18,11 +18,11 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 <!--[if gt IE 8]><!--> <html class="no-js" lang="fr"><![endif]-->
 <html class="no-js" lang="fr">
 <head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-	<title>Organigramme du BDE Showtime</title>
-	<meta name="description" content="L'organigramme de la liste BDE 2012 showtime">
-	<?php include'includes/header.php'?>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Organigramme du BDE Showtime</title>
+    <meta name="description" content="L'organigramme de la liste BDE 2012 showtime">
+    <?php include'includes/header.php'?>
 </head>
 <body>
 	<?php include'includes/head.php';?>
@@ -30,23 +30,37 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<?php include'includes/navigation.php';?>
 		<div id="main" role="main" class="row">
 			<div class="ten columns centered">
-				<div>
-					<div id="gallerie">
-						<img src="images/showtime/direction.jpg" alt="PÙle PrÈsidence" title="PÙle PrÈsidence: Gautier, Paul (PrÈsident) et Farahne " />
-						<img src="images/showtime/secretariat.jpg" alt="PÙle SÈcrÈtariat" title="PÙle SÈcrÈtariat: Asma (SecrÈtaire) et Christophe" />
-						<img src="images/showtime/tresorerie.jpg" alt="PÙle TrÈsorerie" title="PÙle TrÈsorerie: Francisco et Florent (rÈz)" />
-						<img src="images/showtime/comm.jpg" alt="PÙle Communication" title="PÙle Communication: Dounia (respo), Julie, Mayssa, Mathieu, Sarah et Calliste (de haut en bas)" />
-						<img src="images/showtime/soiree.jpg" alt="PÙle soirÈe" title="PÙle soirÈe: Carine (respo), Pierre-BenoÓt, RaphaÎl, Jean-Karim, Marion et Benjamin" />
-						<img src="images/showtime/pougnes.jpg" alt="PÙle pougnes" title="PÙle Pougnes: Mathieu (respo), Julie, Olivia et Arnaud (de gauche ‡ droite)" />
-						<img src="images/showtime/re.jpg" alt="PÙle RE" title="PÙle RE: Anna, Olivia, Mariame, CÈcilia, BÈrÈnice, Kais, DjÈbril et Corentin (respo) (de gauche ‡ droite) "/>
-						<img src="images/showtime/ritz.jpg" alt="PÙle Ritz" title="PÙle Ritz: Mariame (respo)" />
-						<img src="images/showtime/secu.jpg" alt="PÙle SÈcuritÈ" title="PÙle SÈcu-log: Arnaud (respo), Marie et Hicham "/>
-						<img src="images/showtime/swei.jpg" alt="PÙle SWEI" title="PÙle SWEI: Denis, Julie, Marie (respo) et Sarah " />
-						<img src="images/showtime/voyage.jpg" alt="PÙle Voyages" title="PÙle Voyages: Julien, Hicham et Denis (respo)" />
-						<img src="images/showtime/web.jpg" alt="PÙle Web" title="PÙle Web: Jefferson (respo) et Francisco" />
-						<img src="images/showtime/wed.jpg" alt="PÙle Wed" title=" PÙle WED: ChloÈ, Hicham et Julien (respo)" />
-					</div><!-- fin de #gallerie -->
-				</div>
+                <dl class="tabs pill three-line">
+                    <dd class="active"><a href="#direction">Direction</a></dd>
+                    <dd><a href="#secretariat">S√©cr√©tariat</a></dd>
+                    <dd><a href="#tresorerie">Tr√©sorerie</a></dd>
+                    <dd><a href="#comm">Communication</a></dd>
+                    <dd><a href="#soiree">Soir√©e</a></dd>
+                    <dd><a href="#pougnes">Pougnes</a></dd>
+                    <dd><a href="#re">Relations Entreprises</a></dd>
+                    <dd><a href="#ritz">Ritz</a></dd>
+                    <dd><a href="#secu">S√©curit√©-Logistique</a></dd>
+                    <dd><a href="#swei">SWEI</a></dd>
+                    <dd><a href="#voyage">Voyages</a></dd>
+                    <dd><a href="#web">Web</a></dd>
+                    <dd><a href="#wed">Wed</a></dd>
+                </dl>
+
+                <ul class="tabs-content">
+                    <li class="active" id="directionTab"><img src="images/showtime/direction.jpg" alt="P√¥le Pr√©sidence" title="P√¥le Pr√©sidence: Gautier, Paul (Pr√©sident) et Farahne " /></li>
+                    <li id="secretariatTab"><img src="images/showtime/secretariat.jpg" alt="P√¥le S√©cr√©tariat" title="P√¥le S√©cr√©tariat: Asma (Secr√©taire) et Christophe" /></li>
+                    <li id="tresorerieTab"><img src="images/showtime/tresorerie.jpg" alt="P√¥le Tr√©sorerie" title="P√¥le Tr√©sorerie: Francisco et Florent (r√©z)" /></li>
+                    <li id="commTab"><img src="images/showtime/comm.jpg" alt="P√¥le Communication" title="P√¥le Communication: Dounia (respo), Julie, Mayssa, Mathieu, Sarah et Calliste (de haut en bas)" /></li>
+                    <li id="soireeTab"><img src="images/showtime/soiree.jpg" alt="P√¥le soir√©e" title="P√¥le soir√©e: Carine (respo), Pierre-Beno√Æt, Rapha√´l, Jean-Karim, Marion et Benjamin" /></li>
+                    <li id="pougnes"><img src="images/showtime/pougnes.jpg" alt="P√¥le pougnes" title="P√¥le Pougnes: Mathieu (respo), Julie, Olivia et Arnaud (de gauche √† droite)" /></li>
+                    <li id="reTab"><img src="images/showtime/re.jpg" alt="P√¥le RE" title="P√¥le RE: Anna, Olivia, Mariame, C√©cilia, B√©r√©nice, Kais, Dj√©bril et Corentin (respo) (de gauche √† droite) "/></li>
+                    <li id="ritzTab"><img src="images/showtime/ritz.jpg" alt="P√¥le Ritz" title="P√¥le Ritz: Mariame (respo)" /></li>
+                    <li id="secuTab"><img src="images/showtime/secu.jpg" alt="P√¥le S√©curit√©" title="P√¥le S√©cu-log: Arnaud (respo), Marie et Hicham "/></li>
+                    <li id="sweiTab"><img src="images/showtime/swei.jpg" alt="P√¥le SWEI" title="P√¥le SWEI: Denis, Julie, Marie (respo) et Sarah " /></li>
+                    <li id="voyageTab"><img src="images/showtime/voyage.jpg" alt="P√¥le Voyages" title="P√¥le Voyages: Julien, Hicham et Denis (respo)" /></li>
+                    <li id="webTab"><img src="images/showtime/web.jpg" alt="P√¥le Web" title="P√¥le Web: Jefferson (respo) et Francisco" /></li>
+                    <li id="wedTab"><img src="images/showtime/wed.jpg" alt="P√¥le Wed" title=" P√¥le WED: Chlo√©, Hicham et Julien (respo)" /></li>
+                </ul>
 				<p class="text-center">
 					<a class="button large round" href="images/organigramme-showtime.jpg">Organigramme Showtime</a>
 				</p>

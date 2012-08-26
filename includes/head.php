@@ -7,7 +7,7 @@
         </div>
         <div class="two columns mobile-two">
             <a href="mailto:contact@showtime2012.fr?subject=Contact site showtime2012">
-                <p class="text-right LienHead"><i class="general foundicon-mail"></i>Contact</p>
+                <p class="text-right LienHead"><i class="foundicon-mail"></i>Contact</p>
             </a>
         </div>
     </div><!-- fin de row -->

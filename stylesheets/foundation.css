@@ -697,6 +697,7 @@ dl.tabs.vertical dd.active a { background: #4d4d4d; border: none; color: #fff; h
 dl.tabs.vertical dd:first-child a.active { margin: 0; }
 dl.tabs.pill { border-bottom: none; margin-bottom: 10px; }
 dl.tabs.pill dd { margin-right: 10px; }
+dl.tabs.pill.three-line dd { margin-right: 10px; margin-bottom: 10px; }
 dl.tabs.pill dd:last-child { margin-right: 0; }
 dl.tabs.pill dd a { -webkit-border-radius: 1000px; -moz-border-radius: 1000px; -ms-border-radius: 1000px; -o-border-radius: 1000px; border-radius: 1000px; background: #e6e6e6; height: 26px; line-height: 26px; color: #666; }
 dl.tabs.pill dd.active { border: none; margin-top: 0; }
@@ -707,6 +708,7 @@ dl.tabs.two-up dt, dl.tabs.two-up dd { width: 50%; }
 dl.tabs.three-up dt, dl.tabs.three-up dd { width: 33.33%; }
 dl.tabs.four-up dt, dl.tabs.four-up dd { width: 25%; }
 dl.tabs.five-up dt, dl.tabs.five-up dd { width: 20%; }
+
 
 ul.tabs-content { display: block; margin: 0 0 20px; padding: 0; }
 ul.tabs-content > li { display: none; }
@@ -1035,34 +1037,12 @@ hr {
 /* ------------------------------- Icons -------------------------------------- */
 /* Foundation Icons General */
 @font-face {
-  font-family: 'GeneralEnclosedFoundicons';
-  src: url('fonts/general_enclosed_foundicons.eot');
-  src: url('fonts/general_enclosed_foundicons.eot?#iefix') format('embedded-opentype'),
-       url('fonts/general_enclosed_foundicons.woff') format('woff'),
-       url('fonts/general_enclosed_foundicons.ttf') format('truetype'),
-       url('fonts/general_enclosed_foundicons.svg#GeneralEnclosedFoundicons') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
   font-family: 'GeneralFoundicons';
-  src: url('fonts/general_foundicons.eot');
-  src: url('fonts/general_foundicons.eot?#iefix') format('embedded-opentype'),
-       url('fonts/general_foundicons.woff') format('woff'),
-       url('fonts/general_foundicons.ttf') format('truetype'),
-       url('fonts/general_foundicons.svg#GeneralFoundicons') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'SocialFoundicons';
-  src: url('fonts/social_foundicons.eot');
-  src: url('fonts/social_foundicons.eot?#iefix') format('embedded-opentype'),
-       url('fonts/social_foundicons.woff') format('woff'),
-       url('fonts/social_foundicons.ttf') format('truetype'),
-       url('fonts/social_foundicons.svg#SocialFoundicons') format('svg');
+  src: url("../fonts/general_foundicons.eot");
+  src: url("../fonts/general_foundicons.eot?#iefix") format('embedded-opentype'),
+       url("../fonts/general_foundicons.woff") format('woff'),
+       url("../fonts/general_foundicons.ttf") format('truetype'),
+       url("../fonts/general_foundicons.svg#GeneralFoundicons") format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -1078,20 +1058,9 @@ hr {
   background-repeat: repeat;
 }
 
-[class*="foundicon-"]::before {
-font-weight: normal;
-font-style: normal;
-text-decoration: inherit;
-}
-
-[class*="generalEnclosed foundicon-"]:before {
-  font-family: "GeneralEnclosedFoundicons";
-}
-
-[class*="general foundicon-"]:before {
+[class*="foundicon-"]:before {
   font-family: "GeneralFoundicons";
-}
-
-[class*="social foundicon-"]:before {
-  font-family: "SocialFoundicons";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
 }
