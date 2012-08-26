@@ -1,21 +1,5 @@
 <script src="javascripts/foundation.min.js"></script>
 <script src="javascripts/app.js"></script>
-
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<!--
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
-	<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.js"><\/script>')</script>
-	<script src="js/plugins.js" type="text/javascript"></script>
-	<script src="js/script.js" type="text/javascript"></script>
-  -->
-  
 <!-- Balise Google Analytics -->
 <script>
 	var _gaq = _gaq || [];

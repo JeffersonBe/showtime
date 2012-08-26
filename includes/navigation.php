@@ -6,7 +6,7 @@
 		<ul class="nav-bar">
 		  <li class="active"><a href="actualite.php">Actualit&eacute;s</a></li>
 		  <li><a href="showtime.php">Showtime</a></li>
-		  <li><a href="partenaires.php">Partenaires</a></li>
+		  <li><a href="#">Sei & Wei</a></li>
 		  <li><a href="http://associations.it-sudparis.eu/">Associations</a></li>
 		  <li><a href="pougnes.php">Pougnes</a></li>
 		  <li class="has-flyout">

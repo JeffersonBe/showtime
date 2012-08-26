@@ -35,7 +35,7 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 						<h1 class="text-center gros">Wallpaper Showtime</h1>
 						<div id="wallp-desktop">
 							<h3 class="text-center">Version bureau</h3>
-								<a href="../images/wallpaper-desktop.jpg">
+								<a href="images/wallpaper-desktop.jpg" alt="wallpaper-desktop">
 									<p class="text-center">
 										<span class="glyph general">p</span>
 									</p>
@@ -43,7 +43,7 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 						</div>
 						<div id="wallp-mobile">
 							<h3 class="text-center">Version mobile</h3>
-								<a href="../images/wallpaper-mobile.jpg">
+								<a href="../images/wallpaper-mobile.jpg" alt="wallpaper-mobile">
 									<p class="text-center">
 										<span class="glyph general">.</span>
 									</p>
