@@ -32,29 +32,29 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 			<div class="ten columns centered">
 				<div class="row">
 					<div class="six columns">
-						<h1 class="text-center gros">Wallpaper Showtime</h1>
-						<div id="wallp-desktop">
+					<h1 class="text-center gros">Wallpaper Showtime</h1>
+					   <div class="six columns">
 							<h3 class="text-center">Version bureau</h3>
 								<a href="images/wallpaper-desktop.jpg" alt="wallpaper-desktop">
 									<p class="text-center">
-										<span class="glyph general">p</span>
+									   <i class="extra-large-icons foundicon-monitor"></i>
 									</p>
 								</a>
-						</div>
-						<div id="wallp-mobile">
+					   </div>
+					   <div class="six columns">
 							<h3 class="text-center">Version mobile</h3>
 								<a href="../images/wallpaper-mobile.jpg" alt="wallpaper-mobile">
 									<p class="text-center">
-										<span class="glyph general">.</span>
+										<i class="extra-large-icons foundicon-website"></i>
 									</p>
 								</a>
-						</div>
+					   </div>
 					</div>
 					<div class="six columns">
 						<p class="text-center gros">Playlist Showtime</p>
 							<iframe width="100%" height="450" scrolling="no" frameborder="no" src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1377211&show_artwork=true"></iframe>
 					</div>
-					<p class="text-center gros subheader">Revenez régulièrement pour télécharger les goodies Showtime !</p>
+					<p class="text-center gros subheader">Revenez rÃ©guliÃ¨rement pour tÃ©lÃ©charger les goodies Showtime !</p>
 				</div>
 			</div><!-- #ten columns centered -->
 	</div><!-- !end of main! -->

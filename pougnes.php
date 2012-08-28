@@ -30,7 +30,7 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<?php include'includes/navigation.php';?>
 		<div id="main" role="main" class="row">
 			<div class="ten columns centered">
-                <dl class="nice vertical tabs">
+                <dl class="tabs two-up">
                   <dd class="active"><a href="#simple1">Première année</a></dd>
                   <dd><a href="#simple2">Deuxième année</a></dd>
                 </dl>
@@ -392,7 +392,7 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
             			</ul>
                       </li>
                     <li id="simple2Tab">
-                      <p>Il n'y a pas de cours pour l'instant</p>
+                      <p class="text-center">Il n'y a pas de cours pour l'instant, mais vous êtes très studieux !</p>
                     </li>
                 </ul><!-- !#end of tabs-content! -->
 			</div><!-- !#end ten columns centered! -->
