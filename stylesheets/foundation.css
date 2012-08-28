@@ -956,13 +956,17 @@ p.vevent abbr { cursor: default; text-decoration: none; font-weight: bold; borde
 
 #logo {
         margin: 0 auto;
-        width: 150px;
     }
 
+#logo img {
+    margin: 0 auto;
+    width: 150px;
+}
+
 @media only screen and (max-width: 767px){
-    #logo {
-        margin: 0 32%;
-        width: 40%;
+    #logo img{
+        margin: 5px 25% 0;
+        width: 150px;
     }
 }
 
