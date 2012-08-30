@@ -1,11 +1,11 @@
 $(document).ready(function() {
-    
+
     $('#gallerie').orbit({
      animation: 'fade',                  // fade, horizontal-slide, vertical-slide, horizontal-push
      animationSpeed: 800,                // how fast animtions are
      timer: true, 			 // true or false to have the timer
      resetTimerOnClick: false,           // true resets the timer instead of pausing slideshow progress
-     advanceSpeed: 4000, 		 // if timer is enabled, time between transitions 
+     advanceSpeed: 4000, 		 // if timer is enabled, time between transitions
      pauseOnHover: false, 		 // if you hover pauses the slider
      startClockOnMouseOut: false, 	 // if clock should start on MouseOut
      startClockOnMouseOutAfter: 1000, 	 // how long after MouseOut should the timer start again
@@ -16,20 +16,20 @@ $(document).ready(function() {
      bullets: true,			 // true or false to activate the bullet navigation
      bulletThumbs: true,		 // thumbnails for the bullets
      bulletThumbLocation: '',		 // location from this file where thumbs will be
-     afterSlideChange: function(){}, 	 // empty function 
-     fluid: true                         // or set a aspect ratio for content slides (ex: '4x3') 
+     afterSlideChange: function(){}, 	 // empty function
+     fluid: true                         // or set a aspect ratio for content slides (ex: '4x3')
 });
 
 $('#buttonForModal').click(function() {
       $('#myModal').reveal();
     });
-    
+
 $('#sponsoring').orbit({
      animation: 'horizontal-slide',                  // fade, horizontal-slide, vertical-slide, horizontal-push
      animationSpeed: 800,                // how fast animtions are
      timer: true, 			 // true or false to have the timer
      resetTimerOnClick: false,           // true resets the timer instead of pausing slideshow progress
-     advanceSpeed: 4000, 		 // if timer is enabled, time between transitions 
+     advanceSpeed: 4000, 		 // if timer is enabled, time between transitions
      pauseOnHover: false, 		 // if you hover pauses the slider
      startClockOnMouseOut: false, 	 // if clock should start on MouseOut
      startClockOnMouseOutAfter: 1000, 	 // how long after MouseOut should the timer start again
@@ -40,8 +40,8 @@ $('#sponsoring').orbit({
      bullets: true,			 // true or false to activate the bullet navigation
      bulletThumbs: true,		 // thumbnails for the bullets
      bulletThumbLocation: 'bottom',		 // location from this file where thumbs will be
-     afterSlideChange: function(){}, 	 // empty function 
-     fluid: true                         // or set a aspect ratio for content slides (ex: '4x3') 
+     afterSlideChange: function(){}, 	 // empty function
+     fluid: true                         // or set a aspect ratio for content slides (ex: '4x3')
 });
 
 $('#bonusImage').orbit({
@@ -49,7 +49,7 @@ $('#bonusImage').orbit({
      animationSpeed: 800,                // how fast animtions are
      timer: true, 			 // true or false to have the timer
      resetTimerOnClick: false,           // true resets the timer instead of pausing slideshow progress
-     advanceSpeed: 4000, 		 // if timer is enabled, time between transitions 
+     advanceSpeed: 4000, 		 // if timer is enabled, time between transitions
      pauseOnHover: false, 		 // if you hover pauses the slider
      startClockOnMouseOut: false, 	 // if clock should start on MouseOut
      startClockOnMouseOutAfter: 1000, 	 // how long after MouseOut should the timer start again
@@ -60,8 +60,8 @@ $('#bonusImage').orbit({
      bullets: true,			 // true or false to activate the bullet navigation
      bulletThumbs: true,		 // thumbnails for the bullets
      bulletThumbLocation: '',		 // location from this file where thumbs will be
-     afterSlideChange: function(){}, 	 // empty function 
-     fluid: true                         // or set a aspect ratio for content slides (ex: '4x3') 
+     afterSlideChange: function(){}, 	 // empty function
+     fluid: true                         // or set a aspect ratio for content slides (ex: '4x3')
 });
   	$(document).foundationAlerts();
     $(document).foundationAccordion();

@@ -52,7 +52,7 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
                     <li id="tresorerieTab"><img src="images/showtime/tresorerie.jpg" alt="Pôle Trésorerie" title="Pôle Trésorerie: Francisco et Florent (réz)" /></li>
                     <li id="commTab"><img src="images/showtime/comm.jpg" alt="Pôle Communication" title="Pôle Communication: Dounia (respo), Julie, Mayssa, Mathieu, Sarah et Calliste (de haut en bas)" /></li>
                     <li id="soireeTab"><img src="images/showtime/soiree.jpg" alt="Pôle soirée" title="Pôle soirée: Carine (respo), Pierre-Benoît, Raphaël, Jean-Karim, Marion et Benjamin" /></li>
-                    <li id="pougnes"><img src="images/showtime/pougnes.jpg" alt="Pôle pougnes" title="Pôle Pougnes: Mathieu (respo), Julie, Olivia et Arnaud (de gauche à droite)" /></li>
+                    <li id="pougnesTab"><img src="images/showtime/pougnes.jpg" alt="Pôle pougnes" title="Pôle Pougnes: Mathieu (respo), Julie, Olivia et Arnaud (de gauche à droite)" /></li>
                     <li id="reTab"><img src="images/showtime/re.jpg" alt="Pôle RE" title="Pôle RE: Anna, Olivia, Mariame, Cécilia, Bérénice, Kais, Djébril et Corentin (respo) (de gauche à droite) "/></li>
                     <li id="ritzTab"><img src="images/showtime/ritz.jpg" alt="Pôle Ritz" title="Pôle Ritz: Mariame (respo)" /></li>
                     <li id="secuTab"><img src="images/showtime/secu.jpg" alt="Pôle Sécurité" title="Pôle Sécu-log: Arnaud (respo), Marie et Hicham "/></li>

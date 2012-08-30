@@ -4,7 +4,7 @@
 	</a>
 	<div class="nine columns">
 		<ul class="nav-bar">
-		  <li class="active"><a href="actualite.php">Actualit&eacute;s</a></li>
+		  <li><a href="actualite.php">Actualités</a></li>
 		  <li><a href="showtime.php">Showtime</a></li>
 		  <li><a href="#">Sei & Wei</a></li>
 		  <li><a href="http://associations.it-sudparis.eu/">Associations</a></li>
@@ -13,7 +13,7 @@
 		    <a href="#">Bonus</a>
 		    <a href="#" class="flyout-toggle"><span></span></a>
 		    <ul class="flyout">
-		      <li><a href="bonus-videos.php">Vid&eacute;os</a></li>
+		      <li><a href="bonus-videos.php">Vidéos</a></li>
 		      <li><a href="bonus-photos.php">Photos</a></li>
 		      <li><a href="bonus-goodies.php">Goodies</a></li>
 		    </ul>

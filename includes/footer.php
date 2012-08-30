@@ -8,7 +8,7 @@
             <div class="four columns mobile-two">
                 <a class="gaspar" href="http://gaspar.it-sudparis.eu/render.userLayoutRootNode.uP" title="Accède à ce dont tu as besoin tout au long de l'année !">
                     <p class="text-center no-margin"><i class="extra-large-icons foundicon-website"></i></p>
-                    <p class="text-center"> Gaspar</p>
+                    <p class="text-center">Gaspar</p>
                 </a>
             </div>
 
@@ -22,14 +22,14 @@
             <div class="four columns mobile-two">
                 <a class="trombi" href="https://trombi.it-sudparis.eu/index.php" title="C'est qui lui/elle ?">
                     <p class="text-center no-margin"><i class="extra-large-icons foundicon-people"></i></p>
-                    <p class="text-center"> Trombi</p>
+                    <p class="text-center">Trombi</p>
                 </a>
             </div>
 
             <div class="four columns mobile-two">
                 <a class="ratp" href="http://www.ratp.fr/" title="Consulte les horaires des RER !">
                     <p class="text-center no-margin"><i class="extra-large-icons foundicon-clock"></i></p>
-                    <p class="text-center"> RATP</p>
+                    <p class="text-center">RATP</p>
                 </a>
             </div>
 
@@ -37,7 +37,7 @@
                 <a class="sncf" href="http://www.sncf.fr/" title="Prépare ton voyage !">
                     <p class="text-center no-margin"><i class="extra-large-icons foundicon-globe"></i></p>
                     <p class="text-center">SNCF</p>
-                </a><
+                </a>
             </div>
 
             <div class="four columns mobile-two">
