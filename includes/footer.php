@@ -6,7 +6,7 @@
     <div class="row">
         <div class="twelve columns three-up">
             <div class="four columns mobile-two">
-                <a class="gaspar" href="http://gaspar.it-sudparis.eu/render.userLayoutRootNode.uP" title="Accède à ce dont tu as besoin tout au long de l'année !">
+                <a class="gaspar" href="http://gaspar.it-sudparis.eu/render.userLayoutRootNode.uP" title="AccÃ¨de Ã  ce dont tu as besoin tout au long de l'annÃ©e !">
                     <p class="text-center no-margin"><i class="extra-large-icons foundicon-website"></i></p>
                     <p class="text-center">Gaspar</p>
                 </a>
@@ -34,14 +34,14 @@
             </div>
 
             <div class="four columns mobile-two">
-                <a class="sncf" href="http://www.sncf.fr/" title="Prépare ton voyage !">
+                <a class="sncf" href="http://www.sncf.fr/" title="PrÃ©pare ton voyage !">
                     <p class="text-center no-margin"><i class="extra-large-icons foundicon-globe"></i></p>
                     <p class="text-center">SNCF</p>
                 </a>
             </div>
 
             <div class="four columns mobile-two">
-                <a class="calendrier" href="calendrier.php" title="Tout les événements de ton campus !">
+                <a class="calendrier" href="calendrier.php" title="Tout les Ã©vÃ©nements de ton campus !">
                     <p class="text-center no-margin"><i class="extra-large-icons foundicon-calendar"></i></p>
                     <p class="text-center">Calendrier</p>
                 </a>
