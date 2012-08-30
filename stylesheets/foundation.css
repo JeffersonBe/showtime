@@ -966,7 +966,7 @@ p.vevent abbr { cursor: default; text-decoration: none; font-weight: bold; borde
 @media only screen and (max-width: 767px){
     #logo img{
         margin: 5px 25% 0;
-        width: 150px;
+        width: 50%;
     }
 }
 
