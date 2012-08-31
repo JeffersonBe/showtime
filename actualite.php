@@ -30,12 +30,15 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<?php include'includes/navigation.php';?>
 		<div id="main" role="main" class="row">
 			<div class="ten columns centered">
-				<article>
-					<h1>Bientôt !</h1>
-						<h2>En construction</h2>
-							<p>Revenez plus tard !</p>
-							<p><span>;-)</span></p>
-				</article>
+				<div class="row">
+                    <article class="ten columns centered panel">
+                        <p>La rentrée approche, tu viens d'arriver sur le campus et tu peines à t'orienter, le BDE est là pour t'aider!</p>
+                        <p>Réserve ta semaine à partir du lundi 3 septembre pour profiter des activités, repas et soirées organisés sur le campus par les différentes associations afin de rencontrer ta nouvelle promo. Viens participer à un concours de déguisement géant, une journée sportive et tester des talents d'artiste. Finis la journée avec un barbeuc et les nombreuses soirées!</p>
+                        <p>Rendez-vous vendredi à 16 heures dans la Cour d'honneur avec sac de couchage, maillot de bain et crème solaire direction un week-end de folie!</p>
+                        <p>N'hésite pas à solliciter les membres du BDE identifiables grâce aux polos bleus si tu as la moindre question et nos stands seront également présents toute la semaine.</p>
+                    </article>
+                    <hr />
+				</div>
 			</div><!-- #end of ten -->
 		</div> <!--! end of #main -->
 	</div><!-- end of #container -->
