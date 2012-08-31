@@ -30,7 +30,8 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<?php include'includes/navigation.php';?>
 		<div id="main" role="main" class="row">
 			<div class="ten columns centered">
-				<div>
+    			<h2 class="text-center lobster">Campagne BDE by Pepsi</h2>
+                <div>
 					<div id="bonusImage">
 						<img src="images/Pepsi/1.png" alt="image1">
 						<img src="images/Pepsi/2.png" alt="image2">
@@ -41,7 +42,6 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 						<img src="images/Pepsi/7.png" alt="image7">
 						<img src="images/Pepsi/8.png" alt="image8">
 						<img src="images/Pepsi/9.png" alt="image9">
-						<img src="images/Pepsi/10.png" alt="image10">
 					</div>
 				</div>
 			</div>
