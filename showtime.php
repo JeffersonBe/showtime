@@ -47,7 +47,7 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
                 </dl>
 
                 <ul class="tabs-content">
-                    <li class="active" id="presidence"><img src="images/showtime/presidence.jpg" alt="Pôle Présidence" title="Pôle Présidence: Gautier, Paul (Président) et Farahne " /></li>
+                    <li class="active" id="presidenceTab"><img src="images/showtime/presidence.jpg" alt="Pôle Présidence" title="Pôle Présidence: Gautier, Paul (Président) et Farahne " /></li>
                     <li id="secretariatTab"><img src="images/showtime/secretariat.jpg" alt="Pôle Sécrétariat" title="Pôle Sécrétariat: Asma (Secrétaire) et Christophe" /></li>
                     <li id="tresorerieTab"><img src="images/showtime/tresorerie.jpg" alt="Pôle Trésorerie" title="Pôle Trésorerie: Francisco et Florent (réz)" /></li>
                     <li id="commTab"><img src="images/showtime/comm.jpg" alt="Pôle Communication" title="Pôle Communication: Dounia (respo), Julie, Mayssa, Mathieu, Sarah et Calliste (de haut en bas)" /></li>
