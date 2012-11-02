@@ -1,8 +1,8 @@
 <div class="contain-to-grid">
     <nav class="top-bar" style="">
-        <ul class="hide-for-large">
+        <ul class="show-for-small">
             <li class="name">
-                <h1>Liens utiles</h1>
+                <h1>Showtime</h1>
             </li>
         	<li class="toggle-topbar">
             	<a href="#"></a>
