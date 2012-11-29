@@ -391,8 +391,34 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
             				</ul>
             			</ul>
                       </li>
+
+                    <!-- Tabs deuxiemme année -->
                     <li id="simple2Tab">
-                      <p class="text-center">Il n'y a pas de cours pour l'instant, mais vous êtes très studieux !</p>
+                        <dl class="tabs two-up">
+                          <dd class="active"><a href="#management2">Manager</a></dd>
+                          <dd><a href="#ingenieur2">Ingénieur</a></dd>
+                        </dl>
+
+                        <ul class="tabs-content">
+                          <li class="active" id="management2Tab">
+                              <ul class="accordion">
+                                  <li>
+                                      <div class="title">
+                                          <h5>Management de l'innovation</h5>
+                                      </div>
+                                      <div class="content">
+                                          <ul>
+                                              <li><a href="../fichiers/pougne-manager/manag-innov/Management-de-linnovation-26nov12.ppt">Management de l'innovation (26 nov 2012)</a></li>
+                                              <li><a href="../fichiers/pougne-manager/manag-innov/Management-de-linnovation-27nov12.ppt">Management de l'innovation (26 nov 2012</a></li>
+                                          </ul>
+                                      </div>
+                                  </li>
+                              </ul>
+                          </li>
+                          <li id="ingenieur2Tab">
+
+                          </li>
+                        </ul><!-- Fin de tabs-content -->
                     </li>
                 </ul><!-- !#end of tabs-content! -->
 			</div><!-- !#end ten columns centered! -->
