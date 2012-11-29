@@ -409,7 +409,9 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
                                       <div class="content">
                                           <ul>
                                               <li><a href="../fichiers/pougne-manager/manag-innov/Management-de-linnovation-26nov12.ppt">Management de l'innovation (26 nov 2012)</a></li>
-                                              <li><a href="../fichiers/pougne-manager/manag-innov/Management-de-linnovation-27nov12.ppt">Management de l'innovation (26 nov 2012</a></li>
+                                              <li><a href="../fichiers/pougne-manager/manag-innov/Management-de-linnovation-27nov12.ppt">Management de l'innovation (27 nov 2012</a></li>
+                                              <li><a href="../fichiers/pougne-manager/manag-innov/Management-de-linnovation-28nov12.ppt">Management de l'innovation (28 nov 2012)</a></li>
+                                              <li><a href="../fichiers/pougne-manager/manag-innov/Management-de-linnovation-29nov12.ppt">Management de l'innovation (29 nov 2012</a></li>
                                           </ul>
                                       </div>
                                   </li>
