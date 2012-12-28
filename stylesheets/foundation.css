@@ -1232,6 +1232,10 @@ table.show-for-xlarge, table.show-for-large, table.hide-for-small, table.hide-fo
 	margin-right: auto;
 	padding: 20px 0 0px 0;
 }
+
+#londres {
+    margin: 0 0 20px 0;
+}
 /*------------------------------------------BODY--------------------------------------------*/
 #container-body {
 	height: 385px;

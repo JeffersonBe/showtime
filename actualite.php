@@ -31,6 +31,14 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
 		<div id="main" role="main" class="twelve columns">
 			<div class="ten columns centered">
 				<div class="row">
+				    <article class="ten columns centered panel">
+                        <h2 class="subheader">Voyage à Londres du 18 au 20 janvier 2013 par Showtime</h2>
+                        <h4>Vous voulez vous inscrire au voyage?</h4>
+                        <p>Remplissez le formulaire en ligne en cliquant sur le lien suivant : <br/>
+                        <a href="http://eepurl.com/s5V79" class="text-center">Cliquez pour remplir le formulaire</a><br/>
+                        Pour toute question, adressez-vous à <a href="mailto:denis.khamsing@showtime2012.fr">denis.khamsing@showtime2012.fr</a>"</p>
+                    </article>
+                    <hr />
                     <article class="ten columns centered panel">
                         <p>La rentrée approche, tu viens d'arriver sur le campus et tu peines à t'orienter, le BDE est là pour t'aider!</p>
                         <p>Réserve ta semaine à partir du lundi 3 septembre pour profiter des activités, repas et soirées organisés sur le campus par les différentes associations afin de rencontrer ta nouvelle promo. Viens participer à un concours de déguisement géant, une journée sportive et tester des talents d'artiste. Finis la journée avec un barbeuc et les nombreuses soirées!</p>
