@@ -28,9 +28,6 @@ Y8a     a8P  88       88  "8a,   ,a8"    `8bd8'  `8bd8'      88,    88  88      
         <div id="container" class="row">
             <?php include'includes/navigation.php';?>
             <div id="main" role="main" class="twelve columns">
-                <a href="actualite.php" title="Stay tuned!">
-                    <img id="londres" src="images/londres.jpg" alt="londres" width="990" height="60">
-                </a>
                 <div class="ten columns centered">
                     <div class="flex-video widescreen vimeo">
                         <iframe src="http://player.vimeo.com/video/46753945?title=0&amp;byline=0&amp;portrait=0&amp;color=ff0179" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
